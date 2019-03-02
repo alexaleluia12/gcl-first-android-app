@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="hello_word_text">0</string>
+    <string name="ramdon_heading">Here is a number beatean 0 and %1d</string>
+</resources>
